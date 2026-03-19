@@ -1,4 +1,4 @@
-Submission by team Synergy067 
+Won 30k INR at IIT Gandhinagar, National Level Hackathon @Codeversity
 # 🚀 DHRUVA – Decentralized Credential Verification System
 
 > A Blockchain-Based Decentralized Identity (DID) & Verifiable Credential (VC) Infrastructure
