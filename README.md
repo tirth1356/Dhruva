@@ -8,12 +8,6 @@ Won 30k INR at IIT Gandhinagar, National Level Hackathon @Codeversity
 
 ## 🌐 Project Links
 
-* 🔗 **Live Application**
-  [https://dhruva-1.vercel.app](https://dhruva-1.vercel.app)
-
-* 📦 **GitHub Repository**
-  [https://github.com/Smith24298/Dhruva_1](https://github.com/Smith24298/Dhruva_1)
-
 * 🎥 ** Demo Video**
   [https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk](https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk)
 
