@@ -7,6 +7,7 @@ Won 30k INR at IIT Gandhinagar, National Level Hackathon @Codeversity
 ---
 
 ## 🌐 Project Links
+hosted at : [https://dhruva-8.netlify.app](https://dhruva-8.netlify.app)
 
 * 🎥 ** Demo Video**
   [https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk](https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk)
